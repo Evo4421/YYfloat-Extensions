@@ -1,1 +1,12 @@
-{}
+{
+    "qq-cha": {
+        "version": "1.0",
+        "author": "InitUltra",
+        "description": "稳定，免费，开源的Q绑查询服务，支持QQ号/手机号双向查询。",
+        "size": "13.7KB",
+        "url": "https://evo-blog-by-linghan.eu.cc:10406/downloads/plugins/qq-cha.zip",
+        "date": "2026-10-03",
+        "tags": ["Q绑查询", "插件"]
+        "keywords": ["查Q绑", "免费查QQ", "Q绑", "Q绑API", "双向查询"]
+    }
+}
